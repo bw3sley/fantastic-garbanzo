@@ -12,7 +12,7 @@
 
 ## 💻 About this project
 
-This project was developed by me during one of many Rocketseat's Discover Marathon, my tutor was Mayk Brito. This project proposal was to develop a website that allows the users manage their incomes and expenses.
+This project was developed by me during one of many Rocketseat's Discover Marathon, my tutor was [Mayk Brito](https://www.github.com/maykbrito). This project proposal was to develop a website that allows the users manage their incomes and expenses.
 
 I'll be happy if you could send me any feedback about the project, code, structure or anything that you can report that could make me better as a developer!
 
